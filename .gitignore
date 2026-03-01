@@ -1,0 +1,17 @@
+# Virtual env
+.venv/
+
+# IDE
+.idea/
+
+# Data
+*.csv
+
+# Models
+*.pkl
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Storedata.csv
