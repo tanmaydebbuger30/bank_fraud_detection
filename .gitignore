@@ -15,3 +15,7 @@
 
 # System files
 .DS_Storedata.csv
+data.csv
+*.pkl
+.idea/
+.venv/
